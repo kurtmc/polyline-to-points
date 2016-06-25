@@ -1,0 +1,38 @@
+
+
+
+
+_list
+Select objects: 1 found
+
+Select objects:
+		LWPOLYLINE Layer: "31479 xr asb road$O$ROAD CL"
+			Space: Model space
+		Handle = 4a1f
+            Open
+  Constant width     0.00
+            area  9009.70
+          length  304.46
+
+        at point  X=1760274.96  Y=5945483.99  Z=     0.00
+           bulge     -0.40
+          center  X=1760235.21  Y=5945521.99  Z=     0.00
+          radius     55.00
+     start angle  133d42'58"
+       end angle  220d5'23"
+        at point  X=1760199.79  Y=5945479.92  Z=     0.00
+        at point  X=1760176.57  Y=5945499.47  Z=     0.00
+           bulge     0.31
+          center  X=1760150.81  Y=5945468.86  Z=     0.00
+          radius     40.00
+     start angle  40d5'23"
+       end angle  331d18'28"
+        at point  X=1760131.61  Y=5945503.95  Z=     0.00
+        at point  X=1760127.51  Y=5945501.71  Z=     0.00
+           bulge     0.44
+          center  X=1760141.91  Y=5945475.39  Z=     0.00
+          radius     30.00
+     start angle  331d18'28"
+       end angle  236d21'19"
+        at point  X=1760116.93  Y=5945458.77  Z=     0.00
+        at point  X=1760166.12  Y=5945384.86  Z=     0.00
