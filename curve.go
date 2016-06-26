@@ -1,5 +1,7 @@
+package main
+
 type Curve struct {
 	start Point
 	bulge float64
-	startAngle, endAngle, float64
+	startAngle, endAngle float64
 }
